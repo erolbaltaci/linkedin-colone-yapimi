@@ -1,0 +1,107 @@
+.logo{
+    height: 30px;
+    width: 30px;
+}
+
+.isim{
+    font-size: 10px;
+}
+
+.b-r{
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+}
+
+.header-b{
+    color: gray;
+}
+
+
+body{
+    background-color: rgb(180, 180, 180);
+    height: 500px;
+}
+
+.section-top{
+    margin-top: 80px;
+}
+
+.searc-icon{
+    font-size: 12px;
+}
+
+
+
+.section{
+height: 190px;
+}
+
+
+.bg-yellow {
+    background-color: #ffffff;
+
+}
+.border-bottom-dark{
+    border-bottom: 1px solid rgb(41, 41, 41, 1);
+}
+
+
+/* Sol kısım start */
+.sl{
+    
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+}
+
+.mt{
+    margin-top: 100px;
+}
+
+.bg-resim{
+    background-image: url("02.jpg");
+     height: 60px; 
+}
+
+/* Sol kısım end */
+
+
+
+/* Sağ Kısım Start */
+.border{
+
+    padding:4px;
+    border-radius: 10px;
+}
+
+.sag-img {
+    border-radius: 50px;
+}
+
+.takip-et:hover{
+    text-decoration: none;
+    background-color: blue;
+    color: #ffffff;
+}
+
+/* Sağ Kısım End */
+
+
+/* Orta Kısım Start */
+
+.ort-img{
+    border-radius: 50%;
+}
+
+/* Orta Kısım End */
+
+
+/* Message */
+
+    
+.ms{
+    border-radius: 50%;
+height: 30px;
+width: 30px;
+}
